@@ -1,0 +1,11 @@
+.left-section{
+    width: 25%;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 3%;
+    width: 13rem;
+    border-radius: 30px 30px;
+}

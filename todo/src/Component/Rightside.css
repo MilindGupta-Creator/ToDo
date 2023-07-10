@@ -1,0 +1,29 @@
+.home-section {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    height: 100vh;
+  }
+  
+  .right-section {
+    align-items: center;
+    justify-content: center;
+    background: rgba(247, 236, 220, 1);
+    width: 75%;
+    height: 100vh;
+  }
+  
+  .right-section img {
+    margin: auto auto;
+    width: 50%;
+    height: 50%;
+  }
+  
+  .text-section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contents{
+    margin-top: 10%;
+  }
+  
